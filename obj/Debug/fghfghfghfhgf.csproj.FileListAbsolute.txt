@@ -1,0 +1,9 @@
+C:\Users\L\source\repos\fghfghfghfhgf\fghfghfghfhgf\bin\Debug\fghfghfghfhgf.exe.config
+C:\Users\L\source\repos\fghfghfghfhgf\fghfghfghfhgf\bin\Debug\fghfghfghfhgf.exe
+C:\Users\L\source\repos\fghfghfghfhgf\fghfghfghfhgf\bin\Debug\fghfghfghfhgf.pdb
+C:\Users\L\source\repos\fghfghfghfhgf\fghfghfghfhgf\obj\Debug\fghfghfghfhgf.csproj.AssemblyReference.cache
+C:\Users\L\source\repos\fghfghfghfhgf\fghfghfghfhgf\obj\Debug\fghfghfghfhgf.Properties.Resources.resources
+C:\Users\L\source\repos\fghfghfghfhgf\fghfghfghfhgf\obj\Debug\fghfghfghfhgf.csproj.GenerateResource.cache
+C:\Users\L\source\repos\fghfghfghfhgf\fghfghfghfhgf\obj\Debug\fghfghfghfhgf.csproj.CoreCompileInputs.cache
+C:\Users\L\source\repos\fghfghfghfhgf\fghfghfghfhgf\obj\Debug\fghfghfghfhgf.exe
+C:\Users\L\source\repos\fghfghfghfhgf\fghfghfghfhgf\obj\Debug\fghfghfghfhgf.pdb
